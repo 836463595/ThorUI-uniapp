@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "登陆",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tui-list-cell": "/components/thor-ui/tui-list-cell/tui-list-cell",
+    "tui-icon": "/components/thor-ui/tui-icon/tui-icon",
+    "tui-button": "/components/thor-ui/tui-button/tui-button"
+  }
+}

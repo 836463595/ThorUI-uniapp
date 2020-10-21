@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "油号信息",
+  "usingComponents": {
+    "tui-list-cell": "/components/thor-ui/tui-list-cell/tui-list-cell",
+    "tui-button": "/components/thor-ui/tui-button/tui-button",
+    "tui-tips": "/components/thor-ui/tui-tips/tui-tips"
+  }
+}

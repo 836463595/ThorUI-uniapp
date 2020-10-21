@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "录入信息",
+  "usingComponents": {
+    "tui-icon": "/components/thor-ui/tui-icon/tui-icon",
+    "tui-list-cell": "/components/thor-ui/tui-list-cell/tui-list-cell",
+    "tui-upload": "/components/thor-ui/tui-upload/tui-upload",
+    "tui-button": "/components/thor-ui/tui-button/tui-button",
+    "tui-tips": "/components/thor-ui/tui-tips/tui-tips",
+    "uni-section": "/components/uni-ui/uni-section/uni-section"
+  }
+}

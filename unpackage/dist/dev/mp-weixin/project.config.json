@@ -1,0 +1,44 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "",
+  "appid": "wx827c19d9be43dd4e",
+  "projectname": "app-oil-station",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": 1,
+      "list": [
+        {
+          "name": "text",
+          "query": "",
+          "id": 0,
+          "pathName": "pages/index/index"
+        },
+        {
+          "id": 1,
+          "name": "pages/index/edit",
+          "pathName": "pages/index/edit",
+          "query": ""
+        }
+      ]
+    }
+  }
+}
